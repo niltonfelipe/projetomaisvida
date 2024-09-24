@@ -42,6 +42,7 @@ O objetivo principal deste projeto é reduzir a mortalidade hospitalar em instit
 
 A mortalidade em hospitais públicos é um problema grave no Brasil, muitas vezes relacionada à ausência de monitoramento e gestão adequados. Este projeto justifica-se pela necessidade de integrar **ciência de dados** na gestão hospitalar, visando otimizar o uso de recursos e melhorar a eficiência dos cuidados prestados. Além disso, o projeto está alinhado com o **ODS 3 da ONU**, que visa promover saúde e bem-estar para todos.
 
+
 # 2. REFERENCIAL TEÓRICO
 
 ## 2.1. Objetivo de Desenvolvimento Sustentável 3 e Saúde Pública
@@ -58,6 +59,7 @@ A **gestão hospitalar eficiente** é essencial para garantir a qualidade dos cu
 
 As **análises preditivas** são uma das ferramentas mais poderosas quando se trata de otimizar a gestão hospitalar e reduzir a mortalidade. Essas análises utilizam algoritmos de **aprendizado de máquina** e **inteligência artificial** para prever desfechos clínicos e identificar padrões de risco, baseando-se tanto em dados históricos quanto em dados em tempo real.
 
+
 # 3. METODOLOGIA
 
 ## 3.1. Coleta e Integração de Dados
@@ -71,6 +73,7 @@ Os dados utilizados serão provenientes de fontes confiáveis, como empresas esp
 ### Armazenamento Seguro de Dados
 
 - Implementação de um sistema de armazenamento seguro para garantir a confidencialidade, integridade e disponibilidade dos dados.
+
 
 # 4. RECURSOS
 
