@@ -1,98 +1,69 @@
-# 1. INTRODUÇÃO
+🏥 ##Plataforma de Gestão Hospitalar com Ciência de Dados
+1. Introdução
+A saúde pública no Brasil tem experimentado mudanças profundas nas últimas décadas. 🎉 Desde a década de 1940, observamos uma queda contínua nos níveis de mortalidade, impulsionada pela transição epidemiológica: a redução das doenças infectocontagiosas e o aumento das doenças crônicas não transmissíveis (CALAZANS; GUIMARÃES; NEPOMUCENO, 2023). 💡
 
-A saúde pública no Brasil tem passado por transformações significativas nas últimas décadas, com melhorias observadas nos indicadores de mortalidade e qualidade dos cuidados prestados. Desde a década de 1940, o país registra uma redução contínua nos níveis de mortalidade, um reflexo da transição epidemiológica, marcada pela diminuição das doenças infectocontagiosas e o aumento das doenças crônicas não transmissíveis, particularmente em adultos e idosos (CALAZANS; GUIMARÃES; NEPOMUCENO, 2023).
+Em 2023, registramos a menor taxa de mortalidade infantil e fetal por causas evitáveis dos últimos 28 anos, com uma queda de 62% em relação a 1996! 🎯 Isso se deve ao aumento das ações preventivas e à melhoria dos cuidados gestacionais (BRASIL, 2024). Esses avanços destacam o impacto positivo de uma gestão hospitalar eficaz.
 
-Essas mudanças revelam a importância de uma **gestão hospitalar eficiente**, que seja capaz de acompanhar essas transformações demográficas e epidemiológicas. Em 2023, o Brasil registrou a menor taxa de mortalidade infantil e fetal por causas evitáveis dos últimos 28 anos, com 202 mil mortes, representando uma redução de 62% em comparação a 1996 (BRASIL, 2024). Esses avanços são atribuídos à melhoria nos cuidados durante a gestação e ao aumento das ações preventivas, evidenciando o impacto positivo de uma gestão hospitalar eficaz.
+Entretanto, apesar dos progressos, a mortalidade hospitalar, especialmente nas instituições públicas, ainda é um desafio. 🚨 Fatores como a falta de monitoramento eficaz e a subutilização de ferramentas tecnológicas para gestão de riscos e alocação de recursos são obstáculos significativos.
 
-No entanto, apesar desses progressos, a mortalidade hospitalar, especialmente em instituições públicas, continua a ser um desafio, muitas vezes associada à falta de monitoramento eficaz e ao uso inadequado de ferramentas tecnológicas para a gestão de riscos e a alocação de recursos.
+Com foco no Objetivo de Desenvolvimento Sustentável 3 (ODS 3) da ONU, que visa garantir saúde e bem-estar para todos 👶🧓, surge a necessidade urgente de melhorar a gestão hospitalar através da ciência de dados e da tecnologia. 📊
 
-O **Objetivo de Desenvolvimento Sustentável 3 (ODS 3)** da Organização das Nações Unidas (ONU) visa assegurar uma vida saudável e promover o bem-estar para todas as idades. No contexto brasileiro, esse objetivo está diretamente relacionado à necessidade de melhorar a gestão hospitalar, utilizando ciência de dados e tecnologia como ferramentas para reduzir a mortalidade hospitalar.
+Nossa Proposta
+Este projeto visa desenvolver uma plataforma inovadora de gestão hospitalar 📈, utilizando ciência de dados, análises preditivas e colaboração entre gestores para reduzir a mortalidade hospitalar. Nossa solução integrará dashboards em tempo real e fóruns de boas práticas para promover uma gestão mais proativa e colaborativa nas instituições públicas de saúde.
 
-O uso de **dashboards informacionais** e análises preditivas permite que os gestores hospitalares tomem decisões mais assertivas e antecipem possíveis complicações, promovendo uma intervenção mais rápida e eficaz.
+1.2. O Problema
+A mortalidade hospitalar no Brasil, especialmente em instituições públicas, é um problema crítico 😔, muitas vezes ligado à falta de monitoramento e de uso eficiente da tecnologia. Uma gestão hospitalar reativa, sem o suporte da ciência de dados, compromete a qualidade do atendimento e aumenta as taxas de mortalidade.
 
-Este projeto propõe desenvolver uma plataforma de gestão hospitalar baseada em **ciência de dados**, visando reduzir a mortalidade hospitalar em instituições públicas. A plataforma integrará ferramentas de análise preditiva e colaborativa, permitindo que gestores de saúde monitorem em tempo real as principais causas de mortalidade e compartilhem boas práticas por meio de fóruns dedicados. A proposta é que, por meio dessa plataforma, a gestão hospitalar no Brasil se torne mais proativa e colaborativa, resultando em uma melhoria significativa na qualidade dos cuidados e na redução da mortalidade.
+1.3. Hipóteses
+🔍 Hipótese 1: Uma plataforma de gestão hospitalar baseada em ciência de dados pode reduzir significativamente a mortalidade hospitalar.
 
-## 1.2. Problema
+📊 Hipótese 2: Dashboards e análises preditivas permitirão que gestores tomem decisões mais assertivas e rápidas.
 
-A mortalidade hospitalar, especialmente em instituições públicas, é um desafio persistente no Brasil, muitas vezes associada à ausência de monitoramento eficaz e à subutilização de ferramentas tecnológicas. A gestão hospitalar reativa, sem o uso adequado de ciência de dados, impede a antecipação de riscos, resultando em uma qualidade de cuidado comprometida e maiores taxas de mortalidade.
+👩‍⚕️ Hipótese 3: Um fórum colaborativo para troca de boas práticas entre profissionais de saúde melhorará os processos hospitalares.
 
-Este projeto propõe a criação de uma plataforma inovadora, baseada em **dados preditivos e colaborativos**, para otimizar a gestão hospitalar, monitorar as principais causas de mortalidade e promover a troca de boas práticas entre gestores de saúde. Com isso, busca-se uma abordagem mais proativa e integrada para a redução da mortalidade hospitalar e a melhoria da eficiência dos cuidados prestados.
+1.4. Objetivo
+🎯 Objetivo principal: Reduzir a mortalidade hospitalar em instituições públicas através do desenvolvimento de uma plataforma de gestão hospitalar que integre ciência de dados, análises preditivas e dashboards informacionais.
 
-## 1.3. Hipóteses
+1.4.1. Objetivos Específicos
+📉 Reduzir a mortalidade hospitalar.
+📊 Proporcionar ferramentas de gestão baseadas em dados.
+🤝 Promover a colaboração entre profissionais de saúde.
+🔮 Implementar análises preditivas para antecipação de riscos.
+🏥 Melhorar a qualidade do atendimento hospitalar.
+🔐 Garantir a segurança dos dados.
+👩‍⚕️ Criar um ambiente colaborativo entre gestores e equipes de saúde.
+1.5. Justificativa
+A mortalidade em hospitais públicos é um problema sério no Brasil. 🚨 Este projeto se justifica pela necessidade urgente de integrar a ciência de dados à gestão hospitalar para otimizar o uso de recursos e melhorar a eficiência dos cuidados prestados. Além disso, estamos alinhados com o ODS 3 da ONU, que visa promover a saúde e o bem-estar para todos. 🌍
 
-- A utilização de uma plataforma de gestão hospitalar baseada em ciência de dados pode reduzir significativamente a mortalidade hospitalar.
-- O uso de dashboards e análises preditivas auxiliará os gestores a tomar decisões mais assertivas.
-- A criação de um fórum para troca de boas práticas entre profissionais de saúde otimizará os processos hospitalares.
+2. Referencial Teórico
+2.1. ODS 3 e Saúde Pública
+O Objetivo de Desenvolvimento Sustentável 3 (ODS 3) da ONU tem como meta garantir uma vida saudável e o bem-estar para todos até 2030, com foco na redução da mortalidade infantil, combate a doenças e promoção da saúde mental (NAÇÕES UNIDAS NO BRASIL, 2024). 💡
 
-## 1.4. Objetivo
+2.2. Gestão Hospitalar e o Uso de Dados
+Uma gestão hospitalar eficiente 💪 é essencial para melhorar a qualidade dos cuidados e a alocação de recursos, especialmente em instituições públicas. A falta de planejamento contínuo e o uso inadequado de tecnologias de monitoramento são grandes desafios (VASCONCELOS; SILVA, 2021). 🏥
 
-O objetivo principal deste projeto é reduzir a mortalidade hospitalar em instituições públicas por meio do desenvolvimento de uma plataforma de gestão hospitalar que integre **ciência de dados**, **análises preditivas** e **dashboards informacionais**. Essa ferramenta visa apoiar os gestores na antecipação de riscos e na tomada de decisões mais assertivas, promovendo uma gestão proativa e eficiente dos recursos hospitalares.
+2.3. Análises Preditivas na Saúde
+As análises preditivas são uma ferramenta poderosa para reduzir a mortalidade hospitalar! 🚀 Usando inteligência artificial e aprendizado de máquina, é possível prever desfechos clínicos e antecipar complicações, permitindo uma intervenção rápida e eficiente. 🔮
 
-### 1.4.1 Objetivos específicos
+3. Metodologia
+3.1. Coleta e Integração de Dados
+📊 Os dados utilizados neste projeto serão provenientes de fontes confiáveis, anonimizados, e integrados através de APIs robustas. Asseguraremos o armazenamento seguro e a confidencialidade das informações.
 
-- Reduzir a mortalidade hospitalar.
-- Proporcionar ferramentas de gestão baseadas em dados.
-- Promover a colaboração entre profissionais de saúde.
-- Implementar análises preditivas para antecipação de riscos.
-- Melhorar a qualidade do atendimento hospitalar.
-- Garantir a segurança dos dados.
-- Criar um ambiente colaborativo entre gestores e equipes de saúde.
+4. Recursos
+4.1. Pessoal Necessário
+👨‍💻 Desenvolvedores de Software
+🧠 Cientistas de Dados
+🔐 Especialistas em Segurança da Informação
+🎨 Designers de UX/UI
+📅 Gestores de Projeto
 
-## 1.5. Justificativa
+4.2. Ferramentas
+Plataformas de Desenvolvimento: Frameworks modernos para desenvolvimento web.
+Ferramentas de Análise de Dados: Python, R e plataformas de Machine Learning.
+Sistemas de Monitoramento e Alertas: Prometheus, Grafana, entre outros.
+5. Cronograma
+📆 A ser definido com base nas entregas e objetivos do projeto.
 
-A mortalidade em hospitais públicos é um problema grave no Brasil, muitas vezes relacionada à ausência de monitoramento e gestão adequados. Este projeto justifica-se pela necessidade de integrar **ciência de dados** na gestão hospitalar, visando otimizar o uso de recursos e melhorar a eficiência dos cuidados prestados. Além disso, o projeto está alinhado com o **ODS 3 da ONU**, que visa promover saúde e bem-estar para todos.
+Referências
+🔗 BRASIL, 2024 - Mortalidade Infantil e Fetal no Brasil
 
-
-# 2. REFERENCIAL TEÓRICO
-
-## 2.1. Objetivo de Desenvolvimento Sustentável 3 e Saúde Pública
-
-O **Objetivo de Desenvolvimento Sustentável 3 (ODS 3)** estabelecido pela Organização das Nações Unidas (ONU) visa assegurar uma vida saudável e promover o bem-estar para todas as idades até 2030. Entre os seus objetivos principais estão a redução da mortalidade infantil, a erradicação de doenças transmissíveis, a promoção da saúde mental e a redução da mortalidade prematura por doenças não transmissíveis através da prevenção e tratamento (NAÇÕES UNIDAS NO BRASIL, 2024).
-
-No Brasil, apesar dos avanços significativos, como a redução da mortalidade infantil e fetal por causas evitáveis, os desafios permanecem, especialmente devido às desigualdades regionais e às deficiências estruturais do sistema de saúde (CALAZANS; GUIMARÃES; NEPOMUCENO, 2023).
-
-## 2.2. Gestão Hospitalar e o Uso de Dados
-
-A **gestão hospitalar eficiente** é essencial para garantir a qualidade dos cuidados e a otimização dos recursos em instituições de saúde, especialmente nas públicas. Um dos grandes desafios dessa gestão é o uso inadequado de tecnologias de monitoramento e a falta de planejamento contínuo, o que pode resultar em diagnósticos tardios, tratamentos inadequados e, consequentemente, em maiores taxas de mortalidade (VASCONCELOS; SILVA, 2021).
-
-## 2.3. Análises Preditivas na Saúde
-
-As **análises preditivas** são uma das ferramentas mais poderosas quando se trata de otimizar a gestão hospitalar e reduzir a mortalidade. Essas análises utilizam algoritmos de **aprendizado de máquina** e **inteligência artificial** para prever desfechos clínicos e identificar padrões de risco, baseando-se tanto em dados históricos quanto em dados em tempo real.
-
-
-# 3. METODOLOGIA
-
-## 3.1. Coleta e Integração de Dados
-
-Os dados utilizados serão provenientes de fontes confiáveis, como empresas especializadas em **Diagnosis Related Groups (DRG)**, oferecendo informações anonimizadas sobre internações hospitalares e causas de mortalidade.
-
-### Desenvolvimento de APIs de Integração
-
-- Serão criadas APIs para a coleta e integração contínua de dados de diferentes fontes, consolidando as informações para posterior análise.
-
-### Armazenamento Seguro de Dados
-
-- Implementação de um sistema de armazenamento seguro para garantir a confidencialidade, integridade e disponibilidade dos dados.
-
-
-# 4. RECURSOS
-
-## 4.1. Pessoal Necessário
-
-- **Gestores de Projeto**: Responsáveis pela coordenação geral, planejamento estratégico e monitoramento do progresso do projeto.
-- **Desenvolvedores de Software**: Especialistas em programação e desenvolvimento, encarregados de construir e manter as funcionalidades do sistema.
-- **Cientistas de Dados**: Focados na coleta, análise e interpretação de grandes volumes de dados.
-- **Especialistas em Segurança da Informação**: Responsáveis pela proteção de dados sensíveis.
-- **Designers de UX/UI**: Criadores de interfaces intuitivas, focados em melhorar a experiência dos usuários.
-
-## 4.2. Seleção e Alocação de Software
-
-- **Plataformas de Desenvolvimento**: Ferramentas e ambientes como frameworks para desenvolvimento web e linguagens de programação.
-- **Ferramentas de Análise de Dados**: Softwares como Python, R, ou plataformas de **Machine Learning**.
-- **Sistemas de Monitoramento e Alertas**: Ferramentas para monitoramento em tempo real como **Prometheus**, **Grafana**, ou **Splunk**.
-
-# 5. CRONOGRAMA
-
-# REFERÊNCIAS
-
-- BRASIL. Mortalidade infantil e fetal por causas evitáveis no Brasil é a menor em 28 anos. Disponível em: [https://www.gov.br/saude/pt-br/assuntos/noticias/2024/marco/mortalidade-infantil-e-fetal-por-causas-evitaveis-no-brasil-e-a-menor-em-28-anos](https://www.gov.br/saude/pt-br/assuntos/noticias/2024/marco/mortalidade-infantil-e-fetal-por-causas-evitaveis-no-brasil-e-a-menor-em-28-anos). Acesso em: 08 set. 2024.
